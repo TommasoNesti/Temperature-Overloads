@@ -7,12 +7,16 @@ function [det,curr,lb,taylor,limits_det,limits_current,limits_lower_bound,limits
 %      Deviations Approach", Tommaso Nesti, Jayakrishnan Nair 
 %      and Bert Zwart, accepted for publication in IEEE Transactions on 
 %      Control of Network Systems.
-
-% This function solves four distinct DC OPFs, each incorporating a 
+%
+%Author: Tommaso Nesti
+%Version 1.0 (May 2029)
+%
+% Notes:
+% 1) This function solves four distinct DC OPFs, each incorporating a 
 % different capacity region in the constraints (deterministic, 
 % current-based, lower-bound based and Taylor-expansion-based.
 %
-% The code heavily relies on MATPOWER functions
+% 2) The code heavily relies on MATPOWER functions
 % (http://www.pserc.cornell.edu/matpower/), and uses the test case 'c118swf' 
 % (https://github.com/MATPOWER/matpower/blob/master/most/lib/t/c118swf.m).
 % The test case differs from the standard IEEE 118 test case in two ways:

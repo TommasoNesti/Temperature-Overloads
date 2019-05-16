@@ -22,7 +22,7 @@
 %
 %
 
-cd /export/scratch1/nesti/MATLAB/matpower7.0b1 %modify with your MATPOWE folder
+cd /export/scratch1/nesti/MATLAB/matpower7.0b1 %modify with your MATPOWER folder
 startup
 
 % Range of overload probabilities
@@ -101,7 +101,7 @@ exp_max_plot=log10(p_max);
 range_p_plot=10.^(linspace(exp_min_plot,exp_max_plot,p_num_plot));
 
 
-%(T=5 minutes)
+% (T=5 minutes)
 % figure;
 % semilogx(range_p',Z_curr(:,1),'-k.','LineWidth',2,'MarkerSize',20);
 % hold on;

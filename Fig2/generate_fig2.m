@@ -6,17 +6,15 @@
 %      Control of Network Systems.
 
 %Author: Tommaso Nesti
-%Version 1.0 (May 2029)
+%Version 1.0 (May 2019)
 
 % Notes:
-% 1) The values for standard deviations at the end time T of the OU process
+% 1) This script requires MATPOWER (http://www.pserc.cornell.edu/matpower/) 
+% 2) The values for standard deviations at the end time T of the OU processes
 %    are taken from:
 %    [2] "B. Hodge and M. Milligan, “Wind power forecasting error 
 %          distributions over multiple timescales,” in 2011 IEEE Power 
 %          and Energy Society General Meeting, July 2011."
-%
-% 2) This script requires MATPOWER (http://www.pserc.cornell.edu/matpower/) 
-%
 % 3) The values for the modified 118 network, including the installed capacities, are based on test case 
 %    "c118swf.m" (https://github.com/MATPOWER/matpower/blob/master/most/lib/t/c118swf.m)
 %

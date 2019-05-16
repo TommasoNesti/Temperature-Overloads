@@ -9,7 +9,7 @@ function [det,curr,lb,taylor,limits_det,limits_current,limits_lower_bound,limits
 %      Control of Network Systems.
 %
 %Author: Tommaso Nesti
-%Version 1.0 (May 2029)
+%Version 1.0 (May 2019)
 %
 % Notes:
 % 1) This function solves four distinct DC OPFs, each incorporating a 

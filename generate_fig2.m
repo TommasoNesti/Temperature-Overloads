@@ -6,7 +6,7 @@
 %      Control of Network Systems.
 
 %Author: Tommaso Nesti
-%Version 1.0 (May 2029)
+%Version 1.0 (May 2019)
 
 % Notes:
 % 1) The values for standard deviations at the end time T of the OU process

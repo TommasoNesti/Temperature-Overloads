@@ -10,7 +10,7 @@ This repository contains the code for reproducing the Figures in the paper
 * The script for Figure 1 requires Mathematica (https://www.wolfram.com/mathematica/)
 * The script for Figure 2 requires MATLAB (https://www.mathworks.com/products/matlab.html) and MATPOWER (http://www.pserc.cornell.edu/matpower/) 
 
-### Instructions
+## Instructions
 No installation is required. Simply download and run the scripts.
 * 'generate_fig1.nb' is a Mathematica notebook used to generate Fig 1 in [1].
 * 'generate_fig2.m' is a Matlab script used to generate Fig 2 in [1]. Change line 23 to cd your MATPOWER folder.

@@ -1,4 +1,4 @@
-# Companion code for the paper "Temperature Overloads in Power Grids Under Uncertainty: a Large Deviations Approach"
+# Computer code for the paper "Temperature Overloads in Power Grids Under Uncertainty: a Large Deviations Approach"
 
 ## Summary  
 This repository contains the code for reproducing the Figures in the paper

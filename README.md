@@ -3,8 +3,7 @@
 ## Summary  
 This repository contains the code for reproducing the Figures in the paper  
 
-[1] "Temperature Overloads in Power Grids Under Uncertainty: a Large Deviations Approach", Tommaso Nesti, Jayakrishnan Nair 
-     and Bert Zwart, accepted for publication in IEEE Transactions on Control of Network Systems.
+[1] "Temperature Overloads in Power Grids Under Uncertainty: a Large Deviations Approach", Tommaso Nesti, Jayakrishnan Nair and Bert Zwart, submitted to IEEE Transaction on Control of Network Systems.
 
 ## Prerequisites  
 * The script for Figure 1 requires Mathematica (https://www.wolfram.com/mathematica/)
